@@ -6,7 +6,7 @@ namespace Csharp_Euler001
     {
         static void Main(string[] args)
         {   /*  Euler Challenge #1
-                Find the sume of all multiples of 3 or 5, which are less than 1,000.   
+                Find the sum of all multiples of 3 or 5, which are less than 1,000.   
                 https://projecteuler.net/problem=1  */
 
             int sumTotal = 0;
